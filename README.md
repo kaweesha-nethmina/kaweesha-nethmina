@@ -75,15 +75,15 @@
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaweesha17420&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaweesha-nethmina&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaweesha17420&theme=dracula" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaweesha-nethmina&theme=dracula" alt="GitHub Trophies">
 </div>
 
 <div align="center">
   <h3>🖥️ Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/Kaweesha17420/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/kaweesha-nethmina/count.svg" alt="Visitor Count">
 </div>
