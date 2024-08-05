@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Kaweesha Nethmina</h1>
   <h3>A passionate developer from Sri Lanka</h3>
-  <img src="https://komarev.com/ghpvc/?username=Kaweesha7420&label=Profile+visitors:" alt="Profile visitors">
+  <img src="https://komarev.com/ghpvc/?username=kaweesha-nethmina&label=Profile+visitors:" alt="Profile visitors">
 </div>
 
 <br>
