@@ -62,13 +62,13 @@
   <h3>🚀 My Projects</h3>
   <p>Check out some of my projects:</p>
   <p>
-    <a href="https://github.com/Kaweesha17420/Skylink">
+    <a href="https://github.com/kaweesha-nethmina/Skylink">
       <img src="https://img.shields.io/badge/Project_1-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 1">
     </a>
-    <a href="https://github.com/Kaweesha17420/Traveliac">
+    <a href="https://github.com/kaweesha-nethmina/Traveliac">
       <img src="https://img.shields.io/badge/Project_2-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 2">
     </a>
-    <a href="https://github.com/Kaweesha17420/project3">
+    <a href="https://github.com/kaweesha-nethmina/project3">
       <img src="https://img.shields.io/badge/Project_3-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 3">
     </a>
   </p>
