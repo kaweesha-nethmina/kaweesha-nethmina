@@ -68,7 +68,7 @@
     <a href="https://github.com/kaweesha-nethmina/Traveliac">
       <img src="https://img.shields.io/badge/Project_2-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 2">
     </a>
-    <a href="[https://github.com/kaweesha-nethmina/project3](https://github.com/kaweesha-nethmina/Aurora)">
+    <a href="https://github.com/kaweesha-nethmina/Aurora">
       <img src="https://img.shields.io/badge/Project_3-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 3">
     </a>
   </p>
