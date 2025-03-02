@@ -19,10 +19,10 @@
     <tr>
       <td width="50%" align="left">
         <ul>
-          <li>🌱 I’m currently learning <strong>Java</strong></li>
+          <li>🌱 I’m currently learning <strong>Spring-boot</strong></li>
           <li>👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.</li>
           <li>🤔 I’m looking for help with Open source Contribution.</li>
-          <li>📫 How to reach me: <strong>Kaweeshaneth420@gmail.com</strong></li>
+          <li>📫 How to reach me: <strong>kaweesha.nj@gmail.com</strong></li>
         </ul>
       </td>
       <td width="50%" align="center">
