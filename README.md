@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Kaweesha Nethmina</h1>
   <h3>A passionate developer from Sri Lanka</h3>
-  <img src="https://komarev.com/ghpvc/?username=kaweesha-nethmina&label=Profile+visitors:" alt="Profile visitors">
+  <img src="https://komarev.com/ghpvc/?username=kaweesha-nethmina&label=Profile+visitors&color=0e75b6&style=flat" alt="Profile visitors">
 </div>
 
 <br>
@@ -10,27 +10,33 @@
   <img src="https://user-images.githubusercontent.com/70926530/122611355-07ff1600-d09c-11eb-8d7b-cc9b1e6d7d1b.gif" height="150px" alt="Coding animation">
 </div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"> About Me
+---
 
-<table align="center">
-  <tr>
-    <td width="50%" align="left">
-      <ul>
-        <li>🌱 I’m currently learning <strong>Java</strong></li>
-        <li>👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.</li>
-        <li>🤔 I’m looking for help with Open source Contribution.</li>
-        <li>📫 How to reach me: <strong>Kaweeshaneth420@gmail.com</strong></li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"> Languages and Tools
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="left">
+        <ul>
+          <li>🌱 I’m currently learning <strong>Java</strong></li>
+          <li>👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.</li>
+          <li>🤔 I’m looking for help with Open source Contribution.</li>
+          <li>📫 How to reach me: <strong>Kaweeshaneth420@gmail.com</strong></li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -42,9 +48,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-</p>
+</div>
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"> Connect with Me
+---
+
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://fb.com/kaweeshanethmina17420" target="_blank">
@@ -58,8 +66,11 @@
   </a>
 </div>
 
+---
+
+## 📂 My Projects
+
 <div align="center">
-  <h3>🚀 My Projects</h3>
   <p>Check out some of my projects:</p>
   <p>
     <a href="https://github.com/kaweesha-nethmina/Skylink">
@@ -74,17 +85,28 @@
   </p>
 </div>
 
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaweesha-nethmina&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaweesha-nethmina&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-nethmina&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaweesha-nethmina&theme=dracula" alt="GitHub Trophies">
 </div>
 
+---
+
+## 👀 Visitor Count
+
 <div align="center">
-  <h3>🖥️ Visitor Count</h3>
   <img src="https://profile-counter.glitch.me/kaweesha-nethmina/count.svg" alt="Visitor Count">
 </div>
