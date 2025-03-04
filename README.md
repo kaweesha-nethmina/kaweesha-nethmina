@@ -175,7 +175,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaweesha-nethmina&show_icons=true&theme=radical&cache=1" alt="GitHub Stats">
   <br>
-  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-nethmina&theme=radical" alt="kaweesha-nethmina" /></p>
 </div>
 
 ---
