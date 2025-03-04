@@ -173,8 +173,8 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaweesha-nethmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="kaweesha-nethmina" width="450" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-nethmina&theme=radical" alt="kaweesha-nethmina" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaweesha-nethmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="kaweesha-nethmina" width="400" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-nethmina&theme=radical" alt="kaweesha-nethmina" width="400" />
 </div>
 
 
